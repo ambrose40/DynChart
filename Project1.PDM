@@ -1,0 +1,221 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|DynChar IPckg|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\IPckg
+Controls Design-Time Support=Yes
+
+[Package|DynChar IPckg|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DynChar IPckg|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DynChar IPckg|Files Found]
+
+[Package|DynChar IPckg|Files Released]
+
+[Package|DynChar IPckg|Missing Dependency Information]
+C:\WINDOWS\system32\FM20.DLL=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\ChartViewer.ocx=
+C:\Program Files\ChartDirector\lib\comchartdir.dll=
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+
+[Package|DynChar IPckg|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSADODC.OCX=
+
+[Package|DynChar IPckg|Files Added]
+C:\WINDOWS\system32\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+
+[Package|DynChar IPckg|Files Removed]
+
+[Package|DynChar IPckg|Files In Project]
+C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\dynchart.ocx=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files\ChartDirector\lib\comchartdir.dll=Yes
+C:\WINDOWS\system32\ChartViewer.ocx=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\msstkprp.dll=Yes
+
+[Package|DynChar IPckg|Configure Registry Files]
+Applicable=No
+
+[Package|DynChar IPckg|Configure Remote Servers]
+Applicable=No
+
+[Package|DynChar IPckg|Install Locations]
+
+[Package|DynChar IPckg|Configure Shared Files]
+Applicable=
+
+[Package|DynChar IPckg|ComponentInfo]
+dynchart.ocx=thiscab
+msvbvm60.dll=thiscab
+oleaut32.dll=thiscab
+olepro32.dll=thiscab
+asycfilt.dll=thiscab
+stdole2.tlb=thiscab
+COMCAT.DLL=thiscab
+msado25.tlb=thiscab
+comchartdir.dll=thiscab
+ChartViewer.ocx=thiscab
+MSADODC.OCX=thiscab
+msstdfmt.dll=thiscab
+COMDLG32.OCX=thiscab
+FM20.DLL=thiscab
+mscomct2.ocx=thiscab
+msstkprp.dll=thiscab
+
+[Package|DynChar IPckg|ObjectInfo]
+DynChart=true;true
+
+[Package|DynChar IPckg|Package]
+PackageFolder=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\IPckg
+ProjectFolder=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart
+ServerSideCab=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\IPckg\dynchart.CAB
+File1=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\IPckg\dynchart.CAB
+File2=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\IPckg\dynchart.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\DynchartSetup
+Controls Design-Time Support=Yes
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\FM20.DLL=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\ChartViewer.ocx=
+C:\Program Files\ChartDirector\lib\comchartdir.dll=
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSADODC.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\windows\system32\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files\ChartDirector\lib\comchartdir.dll=Yes
+C:\WINDOWS\system32\ChartViewer.ocx=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\FM20.DLL=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\msstkprp.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+\\Dm5indexer\intranet\Chart\dynchart.ocx=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\dynchart.ocx=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files\ChartDirector\lib\comchartdir.dll=$(WinSysPath)
+C:\WINDOWS\system32\ChartViewer.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\msstkprp.dll=$(WinSysPath)
+\\Dm5indexer\intranet\Chart\dynchart.ocx=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart\dynchart.ocx=Yes
+\\Dm5indexer\intranet\Chart\dynchart.ocx=No
+
+[Package|Standard Setup Package 1|ComponentInfo]
+dynchart.ocx=thiscab
+msvbvm60.dll=thiscab
+oleaut32.dll=thiscab
+olepro32.dll=thiscab
+asycfilt.dll=thiscab
+stdole2.tlb=thiscab
+COMCAT.DLL=thiscab
+msado25.tlb=thiscab
+comchartdir.dll=thiscab
+ChartViewer.ocx=thiscab
+MSADODC.OCX=thiscab
+msstdfmt.dll=thiscab
+COMDLG32.OCX=thiscab
+FM20.DLL=thiscab
+mscomct2.ocx=thiscab
+msstkprp.dll=thiscab
+
+[Package|Standard Setup Package 1|ObjectInfo]
+DynChart=true;true
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=DynChart
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\DynchartSetup
+ProjectFolder=C:\Documents and Settings\Lariushin\My Documents\Visual Studio Projects\DynChart
+ServerSideCab=
+File1=C:\DynchartSetup\setup.exe
+File2=C:\DynchartSetup\Setup.Lst
+File3=C:\DynchartSetup\dynchart.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
