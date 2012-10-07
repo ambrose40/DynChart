@@ -1,0 +1,27 @@
+.OPTION EXPLICIT
+.Set Cabinet=on
+.Set Compress=on
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="dynchart.CAB"
+"dynchart.INF"
+"dynchart.ocx"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"msado25.tlb"
+"comchartdir.dll"
+"ChartViewer.ocx"
+"MSADODC.OCX"
+"msstdfmt.dll"
+"COMDLG32.OCX"
+"FM20.DLL"
+"mscomct2.ocx"
+"msstkprp.dll"
